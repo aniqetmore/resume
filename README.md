@@ -1,4 +1,4 @@
-# Aniket's Resume
+# Aniket More
 
 📍 Kolhapur, Maharashtra  
 📧 [acmore52@gmail.com](mailto:acmore52@gmail.com)  
