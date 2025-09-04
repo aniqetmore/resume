@@ -25,7 +25,7 @@ Currently seeking opportunities as a **Trainee Engineer / AI-ML Developer**.
 ---
 
 ## 🛠️ Skills
-- **Programming:** Python, HTML, CSS, JavaScript, SQL  
+- **Programming:** Python, HTML, CSS, JavaScript, SQL, Excel  
 - **Libraries & Tools:** Pandas, Machine Learning Libraries, Data Analysis  
 - **Other:** Cybersecurity Essentials (Cisco)  
 - **Languages:** English, Hindi, Marathi  
